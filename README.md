@@ -1,2 +1,16 @@
 # lemoneye
 a python script that sends an audio reminder every 20 minutes, for those who want to use the 20-20-20 rule to protect their eyes.
+
+## prerequisites
+- ffmpeg
+- pydub
+- pyaudio
+
+## setup (if you don't have the prerequisites)
+1. first, install the latest version of python from python.org.
+2. then using powershell or terminal, install pydub and pyaudio packages. (pip install *)
+3. install ffmpeg, using the instructions on ffmpeg.org/download.
+4. download the code, extract the zip file, and click on lemoneye.pyw to run the file.
+
+## setup (if you have the prerequisites)
+1. download the code, extract the zip file, and click on lemoneye.pyw to run the file.
