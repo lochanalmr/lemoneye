@@ -14,3 +14,7 @@ a python script that sends an audio reminder every 20 minutes, for those who wan
 
 ## setup (if you have the prerequisites)
 1. download the code, extract the zip file, and click on lemoneye.pyw to run the file.
+
+## other
+you can replace the startup and app_tone audio files with wav files. just make sure that the startup tone is not too long and that the app_tone is not longer than 30 seconds maximum.
+this script can be used to repetitively play any music, but the audio files should be wav files, and the files should be renamed to startup.wav, and app_tone.wav.
